@@ -6,9 +6,9 @@ This is a full-stack Airbnb Clone project that replicates some of the core funct
 
 ## Demo
 
-Insert GIF or screenshot showcasing the project's UI and features.
-
+![airbnb_logo_detail](https://github.com/Abstaina44/Airbnb_Clone-Test/assets/48015890/afd81674-f994-44f1-8c22-058073af84b6)
 ## Features
+
 
 - User authentication and registration
 - Search for accommodations based on location, dates, and filters
